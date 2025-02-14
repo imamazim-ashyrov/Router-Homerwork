@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+header {
+  /* border: 1px solid; */
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  font-size: 30px;
+  background-color: antiquewhite;
+  padding: 20px;
+  text-transform: uppercase;
+  box-shadow: 0 0 10px 0.01px #7c6c6c;
+  text-decoration: none;
+}
+header span {
+  cursor: pointer;
+}
